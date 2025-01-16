@@ -1,6 +1,6 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fankararesimkursu.net%2Ffotograflar%2Fdesen-cizimleri%2F&psig=AOvVaw2VVWqMDFzWcxEIRlCxD78W&ust=1737129059133000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID815XM-ooDFQAAAAAdAAAAABAR)
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
-<h3 align="center">I am software engineering student on Kırklareli University</h3>
+<h3 align="center">I am a software engineering student at Kırklareli University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1220505058" alt="1220505058" /></a> </p>
 
