@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
 <h3 align="center">I am a software engineering student at Kırklareli University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1220505058" alt="1220505058" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeyyeep1" alt="sumeyyeep1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
